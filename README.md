@@ -1,5 +1,9 @@
 # yesdrift — Invent a Word We Need
 
+[![make.fun · u-deranalabs-invent-a-word-we-need-17a020e0](https://make.fun/badge/u-deranalabs-invent-a-word-we-need-17a020e0.svg)](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-invent-a-word-we-need-17a020e0)
+[![rank](https://make.fun/badge/u-deranalabs-invent-a-word-we-need-17a020e0/DLiiMaGaming/invent-word-20261125/rank.svg)](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-invent-a-word-we-need-17a020e0)
+[![reward](https://make.fun/badge/u-deranalabs-invent-a-word-we-need-17a020e0/DLiiMaGaming/invent-word-20261125/reward.svg)](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-invent-a-word-we-need-17a020e0)
+
 Entry for make.fun competition `u-deranalabs-invent-a-word-we-need-17a020e0`
 ("Invent a Word We Need", $5 pool, deadline 27 Nov 2026 09:55 UTC).
 
